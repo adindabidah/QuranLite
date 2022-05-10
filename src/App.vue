@@ -7,7 +7,7 @@
     Start with Basmallah
     <br/>
     Copyright©
-    <a class="text text-light" href="https://github.com/lutfialdrii">Adinda Abidah Ardelia</a>
+    <a class="text text-light" href="https://github.com/adindabidah">Adinda Abidah Ardelia</a>
   </div>
 </template>
 
