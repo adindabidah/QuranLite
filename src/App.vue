@@ -3,7 +3,7 @@
   <router-view />
 
   <!-- footer -->
-  <div class="text text-light text-center p-3">
+  <div class="text text-light text-center fixed-bottom p-3">
     Start with Basmallah
     <br/>
     Copyright©
